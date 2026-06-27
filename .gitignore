@@ -1,0 +1,18 @@
+# Angular
+inventariosFrontend/node_modules/
+inventariosFrontend/dist/
+inventariosFrontend/.angular/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Spring Boot
+inventariosBackend/target/
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
